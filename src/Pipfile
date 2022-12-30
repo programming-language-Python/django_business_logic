@@ -1,0 +1,37 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+backcall = "*"
+certifi = "*"
+chardet = "*"
+decorator = "*"
+django = "*"
+gunicorn = "*"
+idna = "*"
+ipython = "*"
+ipython-genutils = "*"
+jedi = "*"
+parso = "*"
+pexpect = "*"
+pickleshare = "*"
+prompt-toolkit = "*"
+psycopg2 = "*"
+ptyprocess = "*"
+pygments = "*"
+pytz = "*"
+requests = "*"
+six = "*"
+sqlparse = "*"
+traitlets = "*"
+urllib3 = "*"
+wcwidth = "*"
+psycopg2-binary = "*"
+mailchimp3 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
